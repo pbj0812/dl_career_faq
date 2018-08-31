@@ -1,5 +1,24 @@
 # Deep Learning Career FAQ
 
+This (https://github.com/kyubyong/dl_career_faq) is for my talk at Deep Learning Talks on Sep. 1, 2018. 
+
+## About me
+* [My github](https://github.com/kyubyong)
+* [My CV](https://www.linkedin.com/in/kyubyongpark/)
+
+## Life / Carreer Path
+* Korean Language and Literature at SNU (BA)
+* In-house writer (2 yrs)
+* Search / NLP (4 yrs)
+* NLP (2 yrs)
+* Linguistics at Univ. of Hawaii (MA)
+* NLP (1 yr)
+* Deep Learning / NLP (2 yrs)
+* Bio? Social good?
+
+## (Research) Interests
+* NLP, Speech, (computational) linguistics, bioinformatics, education, philosophy, environment
+
 ## Q. 딥러닝 플레이어가 무엇인가요?
 딥러닝에 기반한 활동(예를 들어 연구나 프로젝트)에 참여하는 사람을 가리킵니다. 대체로 아래와 같이 구분해 볼 수 있습니다. 다만, 이러한 구분이 아주 명확한 것은 아닙니다. 오히려 "나는 <b>R, A, E, D</b>의 성향을 2:5:2:1 정도로 갖고 있다"라고 말하는 것이 자연스럽습니다. 이처럼 스스로의 정체성이나 포지션에 대해 질문을 던지고 고민하는 과정에서 딥러닝 플레이어들의 성격이 균일하지 않음을 이해하게 되고, 또 자신이 나아갈 방향을 설정할 수 있습니다.
 
